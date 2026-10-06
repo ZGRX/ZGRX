@@ -77,29 +77,6 @@ fn main() {
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌐 Vue Web App
-> A modern frontend project built with Vue and JavaScript.
-
-`Vue` `JavaScript` `HTML` `CSS`
-
-### 🐍 Python Project
-> Automation, backend, data processing, or AI-related project.
-
-`Python`
-
-### ☕ Java Project
-> Backend or object-oriented programming project.
-
-`Java`
-
-### 🦀 Rust Project
-> Exploring systems programming and high-performance software.
-
-`Rust`
-
----
 
 ## 🐍 Contribution Graph
 
