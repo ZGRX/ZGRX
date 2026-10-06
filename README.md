@@ -10,35 +10,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```rust
-struct Developer {
-    role: &'static str,
-    interests: Vec<&'static str>,
-    currently_learning: Vec<&'static str>,
-}
-
-fn main() {
-    let me = Developer {
-        role: "Computer Science Student",
-        interests: vec![
-            "Frontend Development",
-            "Backend Engineering",
-            "Systems Programming",
-            "Open Source",
-        ],
-        currently_learning: vec![
-            "Vue",
-            "Java",
-            "Rust",
-        ],
-    };
-}
-```
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
