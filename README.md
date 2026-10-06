@@ -70,7 +70,4 @@
 
 ---
 
-<p align="center">
-  <code>while (alive) { learn(); build(); improve(); }</code>
-</p>
 📫 Contact Me：1796962310@qq.com
