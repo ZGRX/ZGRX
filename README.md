@@ -1,7 +1,128 @@
-# Hi, I'm ZGRX
+<h1 align="center">
+  Hi, I'm Your Name ZGRX👋
+</h1>
 
-I'm a student learning software development.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Frontend+%2F+Backend+%2F+Systems;JavaScript+%7C+Python+%7C+Java+%7C+Rust;Building+things+and+learning+along+the+way"
+  />
+</p>
 
-I'm interested in Go, Python, backend engineering, and open source.  
-I like learning by building small projects, reading real codebases, and trying to understand how software works beyond just writing code.
+---
+
+## 👨‍💻 About Me
+
+```rust
+struct Developer {
+    role: &'static str,
+    interests: Vec<&'static str>,
+    currently_learning: Vec<&'static str>,
+}
+
+fn main() {
+    let me = Developer {
+        role: "Computer Science Student",
+        interests: vec![
+            "Frontend Development",
+            "Backend Engineering",
+            "Systems Programming",
+            "Open Source",
+        ],
+        currently_learning: vec![
+            "Vue",
+            "Java",
+            "Rust",
+        ],
+    };
+}
+```
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,vue&theme=dark" />
+</p>
+
+### Backend & Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,rust&theme=dark" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" height="165" />
+  <img src="./profile/top-langs.svg" height="165" />
+</p>
+
+---
+
+## ⏱ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Vue Web App
+> A modern frontend project built with Vue and JavaScript.
+
+`Vue` `JavaScript` `HTML` `CSS`
+
+### 🐍 Python Project
+> Automation, backend, data processing, or AI-related project.
+
+`Python`
+
+### ☕ Java Project
+> Backend or object-oriented programming project.
+
+`Java`
+
+### 🦀 Rust Project
+> Exploring systems programming and high-performance software.
+
+`Rust`
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution snake"
+      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <code>while (alive) { learn(); build(); improve(); }</code>
+</p>
 📫 Contact Me：1796962310@qq.com
