@@ -16,15 +16,14 @@ jobs:
     steps:
       - name: Update WakaTime stats
         uses: athul/waka-readme@master
-
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
           SHOW_TITLE: true
           SHOW_TOTAL: true
-          TIME_RANGE: last_7_days
 
+          TIME_RANGE: last_7_days
           LANG_COUNT: 7
           SHOW_TIME: true
 
