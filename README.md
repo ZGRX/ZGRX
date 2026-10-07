@@ -30,20 +30,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 </p>
 
----
-## ⏱ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 29 September 2026 - To: 06 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ---
 ## 🐍 Contribution Graph
@@ -66,5 +52,20 @@ No activity tracked
 </p>
 
 ---
+## ⏱ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 29 September 2026 - To: 06 October 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+---
+<!--END_SECTION:waka-->
+
+
 
 📫 Contact Me：1796962310@qq.com
