@@ -57,17 +57,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2026 - To: 12 October 2026
+From: 06 October 2026 - To: 13 October 2026
 
-Total Time: 5 hrs 29 mins
+Total Time: 6 hrs 46 mins
 
-Markdown                   1 hr 29 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-Python                     1 hr 19 mins          █████░░░░░░░░░░░░░░░░░░░░   20.50 %
-Rust                       1 hr 18 mins          █████░░░░░░░░░░░░░░░░░░░░   20.34 %
-Other                      58 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
-HTML                       39 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-Git Config                 23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-Docker                     8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Python                     2 hrs 47 mins         █████████░░░░░░░░░░░░░░░░   36.04 %
+Markdown                   1 hr 29 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
+Rust                       1 hr 7 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+Other                      58 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+HTML                       39 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Git Config                 23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Docker                     8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
