@@ -57,17 +57,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2026 - To: 18 October 2026
+From: 12 October 2026 - To: 19 October 2026
 
-Total Time: 8 hrs 54 mins
+Total Time: 7 hrs 9 mins
 
-Python       7 hrs 1 min           █████████████████▓░░░░░░░   70.22 %
-Other        1 hr 6 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-Markdown     42 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-HTML         39 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-Text         9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-JSON         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Git Config   6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Python       6 hrs 34 mins         ████████████████████▒░░░░   81.35 %
+Other        55 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+Markdown     9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Text         9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+JSON         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+TOML         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Rust         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
