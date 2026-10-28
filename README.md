@@ -57,17 +57,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2026 - To: 26 October 2026
+From: 20 October 2026 - To: 27 October 2026
 
-Total Time: 10 hrs 9 mins
+Total Time: 13 hrs 31 mins
 
-Python       3 hrs 12 mins         ███████▓░░░░░░░░░░░░░░░░░   30.27 %
-JavaScript   3 hrs 8 mins          ███████▒░░░░░░░░░░░░░░░░░   29.65 %
-Rust         1 hr 51 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
-Markdown     1 hr 22 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-HTML         31 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Other        27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-TOML         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+JavaScript   5 hrs 55 mins         ██████████▓░░░░░░░░░░░░░░   42.38 %
+Python       3 hrs 12 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
+Rust         1 hr 51 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+Markdown     1 hr 37 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+HTML         51 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Other        27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+TOML         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
