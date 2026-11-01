@@ -15,7 +15,7 @@
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,vue&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,vue,ts&theme=dark" />
 </p>
 
 ### Backend & Programming
