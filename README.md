@@ -12,22 +12,15 @@
 
 ## 🛠 Tech Stack
 
-### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=js,html,css,vue,ts&theme=dark" />
 </p>
 
-### Backend & Programming
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,rust&theme=dark" />
 </p>
-
-### Tools
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" />
 </p>
 
 
