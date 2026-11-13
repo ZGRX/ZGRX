@@ -50,14 +50,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2026 - To: 11 November 2026
+From: 05 November 2026 - To: 12 November 2026
 
-Total Time: 2 hrs 42 mins
+Total Time: 1 hr 41 mins
 
-Markdown     2 hrs 13 mins         █████████████████▒░░░░░░░   68.86 %
-Other        32 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-TypeScript   28 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown   1 hr 41 mins          ███████████████████░░░░░░   75.94 %
+Other      32 mins               ██████░░░░░░░░░░░░░░░░░░░   23.94 %
+JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
